@@ -1,0 +1,33 @@
+_repo: Zoonomia-Vol.-IOr-the-Laws-of-Organic-Life_15707
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Darwin, Erasmus
+    birthdate: 1731
+    deathdate: 1802
+    gutenberg_agent_id: '3099'
+    url: http://www.gutenberg.org/2009/agents/3099
+    wikipedia: http://en.wikipedia.org/wiki/Erasmus_Darwin
+description: ''
+gutenberg_bookshelf:
+- Biology
+- Physiology
+gutenberg_issued: '2005-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15707'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QP'
+- !lcsh 'Medicine -- Early works to 1800'
+- !lcsh 'Pathology -- Early works to 1800'
+- !lcsh 'Evolution (Biology) -- Early works to 1800'
+- !lcsh 'Physiology -- Early works to 1800'
+title: Zoonomia; Or, the Laws of Organic Life, Vol. I
+url: http://www.gutenberg.org/ebooks/15707
