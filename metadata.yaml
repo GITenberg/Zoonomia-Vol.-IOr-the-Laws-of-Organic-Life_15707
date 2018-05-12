@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3099
     wikipedia: http://en.wikipedia.org/wiki/Erasmus_Darwin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15707#Zoonomia-Vol.-IOr-the-Laws-of-Organic-Life
 gutenberg_bookshelf:
 - Biology
 - Physiology
